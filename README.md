@@ -1,4 +1,4 @@
-# 👋 Olá, Bem vindo ao meu Github!
+# 🖖 Olá, Bem-vindo ao meu GitHub!  
 
 💻 **Desenvolvedor Backend Júnior**  
 📌 Focado em **Java** e explorando  **APIs REST**.  
