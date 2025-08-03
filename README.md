@@ -46,8 +46,8 @@
 ---
 
 ## 🧑‍🚀 Extras:
-💡 **Soft Skills:** Comunicativo, analítico, centrado
-📜 **Uma certeza:** “O conhecimento é um esforço coletivo.”
+💡 **Soft Skills:** Comunicativo, analítico, centrado  
+📜 **Uma certeza:** “O conhecimento é um esforço coletivo.”  
 🎮 **Uma Curiosidade:** Sempre me interessei por hardware e jogos e agora busco entender a lógica que move tudo isso.
 
 ---
