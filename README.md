@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ítalo Palhares!
+# 👋 Olá, Bem vindo ao meu Github!
 
 💻 **Desenvolvedor Backend Júnior**  
 📌 Focado em **Java** e explorando  **APIs REST**.  
