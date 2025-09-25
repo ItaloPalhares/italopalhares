@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tecnologias e Habilidades
+## Tecnologias e Habilidades
 
 **Linguagens:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,8 +31,11 @@
 
 ## 📂 Projetos em Destaque
 
+- [**springboot-apirest**](https://github.com/ItaloPalhares/pratica-springboot-apirest)  
+  *API REST com Spring Boot.*
+
 - [**Spring-Sem-Web**](https://github.com/ItaloPalhares/Spring-sem-Web-)  
-  *Criando uma API sem utilizar web para estudar o Spring Boot.*
+  *Criando uma API sem utilizar web.*
 
 - [**Java-JPA**](https://github.com/ItaloPalhares/Estudo-JPA-Alura)  
   *Praticando persistência de dados e consultas com Spring JPA.*
