@@ -31,20 +31,17 @@
 
 ## 📂 Projetos em Destaque
 
-- [**springboot-apirest**](https://github.com/ItaloPalhares/pratica-springboot-apirest)  
+- [**Criação de Forum**](https://github.com/ItaloPalhares/forum-hub-api)  
+  *Desafio do programa Oracle ONE em parceria com a Alura, focado na criação e configuração do back-end de um fórum.*
+  
+- [**Back-end clinica Vollmed**](https://github.com/ItaloPalhares/pratica-springboot-apirest)  
   *API REST com Spring Boot.*
-
-- [**Spring-Sem-Web**](https://github.com/ItaloPalhares/Spring-sem-Web-)  
-  *Criando uma API sem utilizar web.*
-
-- [**Java-JPA**](https://github.com/ItaloPalhares/Estudo-JPA-Alura)  
+  
+- [**Estudo Java-JPA**](https://github.com/ItaloPalhares/Estudo-JPA-Alura)  
   *Praticando persistência de dados e consultas com Spring JPA.*
 
-- [**Desafio-Amigo-Secreto**](https://github.com/ItaloPalhares/desafio-amigo-secreto)  
+- [**Desafio Site AmigoSecreto**](https://github.com/ItaloPalhares/desafio-amigo-secreto)  
   *Projeto inicial de introdução ao JavaScript.*
-
-- [**Consulta-TabelaFipe-Api**](https://github.com/ItaloPalhares/TabelaFIPE-API)  
-  *Experimentando com consultas em API.*
 
 ---
 
