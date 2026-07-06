@@ -29,11 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloPalhares&layout=compact&theme=radical)  
-
----
-
 ## 📂 Projetos em Destaque  
 
 - [**Credifácil IDP**](https://github.com/weritonpetreca/credi-facil-idp)  
