@@ -36,6 +36,9 @@
 
 ## 📂 Projetos em Destaque  
 
+- [**Credifácil IDP**](https://github.com/weritonpetreca/credi-facil-idp)  
+  *Projeto vencedor do 1º Lugar no Hackathon Hack2Hire realizado pela Escola da Nuvem.*  
+
 - [**Criação de Forum**](https://github.com/ItaloPalhares/forum-hub-api)  
   *Desafio do programa Oracle ONE em parceria com a Alura, focado na criação e configuração do back-end de um fórum.*  
 
