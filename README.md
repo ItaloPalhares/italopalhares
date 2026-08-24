@@ -31,13 +31,13 @@
 
 ## 📂 Projetos em Destaque  
 
-- [**Credifácil IDP**](https://github.com/weritonpetreca/credi-facil-idp)  
+- [**Fullstack - Credifácil IDP**](https://github.com/weritonpetreca/credi-facil-idp)  
   *Projeto vencedor do 1º Lugar no Hackathon Hack2Hire realizado pela Escola da Nuvem.*  
 
-- [**Criação de Forum**](https://github.com/ItaloPalhares/forum-hub-api)  
-  *Desafio do programa Oracle ONE em parceria com a Alura, focado na criação e configuração do back-end de um fórum.*  
+- [**Fullstack - Organização Inteligente**](https://github.com/ItaloPalhares/forum-hub-api](https://github.com/No-Country-simulation/g9-br-techmind-team10 )  
+  *Projeto de organização automática de conteúdo técnico, vencedor do 3º lugar no Hackathon Oracle ONE G9.*  
 
-- [**Back-end clinica Vollmed**](https://github.com/ItaloPalhares/pratica-springboot-apirest)  
+- [**Backend - clinica Vollmed**](https://github.com/ItaloPalhares/pratica-springboot-apirest)  
   *API REST com Spring Boot.*  
 
 - [**Estudo Java-JPA**](https://github.com/ItaloPalhares/Estudo-JPA-Alura)  
